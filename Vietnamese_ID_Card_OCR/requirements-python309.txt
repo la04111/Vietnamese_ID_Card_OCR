@@ -1,0 +1,11 @@
+vietocr==0.3.13
+paddleocr==2.7.3
+paddlepaddle==2.4.2
+torch==1.13.1
+torchvision==0.14.1
+opencv-contrib-python==4.6.0.66
+numpy==1.24.4
+fastapi
+uvicorn
+python-multipart
+ultralytics
